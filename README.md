@@ -21,7 +21,7 @@ Linux için:
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# Licence
+# License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # Image
